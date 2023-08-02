@@ -3,8 +3,8 @@
 ![First Photo](edges.png)
 ![Third Photo](edges.1.png)
 <div style="display: flex; justify-content: center;">
-    <img src="" alt="First Photo" width="400" />
-    <img src="path/to/second_photo.jpg" alt="Second Photo" width="400" />
+    <img src="Recognized Shapes.1.png" alt="First Photo" width="400" />
+    <img src="" alt="Second Photo" width="400" />
 </div>
 
 
